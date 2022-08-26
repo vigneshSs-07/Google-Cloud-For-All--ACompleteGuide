@@ -15,3 +15,8 @@ This Repo contains Collection of GCP  services in the cloud related to different
 ### Compare AWS and Azure services to Google Cloud 
 
 1. https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison
+
+
+### Cloud SQL - Python COnnector
+
+1. https://pypi.org/project/cloud-sql-python-connector/
