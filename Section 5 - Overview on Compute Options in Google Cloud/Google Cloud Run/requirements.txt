@@ -1,0 +1,5 @@
+# https://pypi.org/project/flask
+Flask==3.0.2
+
+# https://pypi.org/project/gunicorn
+gunicorn==21.2.0

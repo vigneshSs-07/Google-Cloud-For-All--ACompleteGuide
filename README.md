@@ -1,6 +1,6 @@
 # GCP_Fundamentals
 
-This Repo contains Collection of GCP  services in the cloud related to different technologies and stack tech
+This Repo contains the resources for UDEMY course Collection of GCP  services in the cloud related to different technologies and stack tech
 
 
 ### GCP - github

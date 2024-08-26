@@ -1,0 +1,4 @@
+# An example requirements file, add your dependencies below
+sampleproject==2.0.0
+# https://pypi.org/project/Flask
+Flask==3.0.2
